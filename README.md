@@ -1,4 +1,12 @@
-<h2 align="left">Bonjour, <br>Je suis actuellement à la recherche d'une entreprise 💼 pour effectuer une alternance dans le Développement web. Ayant toujours été motivé par l'idée d'acquérir une expérience professionnelle tout en poursuivant mes études, je suis convaincu que l'alternance est le meilleur moyen de mettre en pratique mes compétences tout en continuant à apprendre.</h2>
+<h2 align="left">
+Hello 👋 <br><br>
+
+I design and develop full-stack web applications 💻.<br><br>
+
+I work on building APIs, managing databases, and developing modern user interfaces using technologies such as TypeScript, Node.js, and React.<br><br>
+
+I pay particular attention to code quality, performance, and project structure.
+</h2>
 
 ###
 
